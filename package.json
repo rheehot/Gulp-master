@@ -1,0 +1,19 @@
+{
+  "name": "gulp-master",
+  "version": "1.0.0",
+  "description": "90 minutes Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kunune/Gulp-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kunune/Gulp-master/issues"
+  },
+  "homepage": "https://github.com/Kunune/Gulp-master#readme"
+}
