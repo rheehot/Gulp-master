@@ -18,7 +18,8 @@
     "build": "gulpbuild"
   },
   "dependencies": {
-    "del": "^5.0.0"
+    "del": "^5.0.0",
+    "gulp-image": "^5.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
