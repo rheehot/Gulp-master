@@ -17,7 +17,9 @@
     "dev": "gulp dev",
     "build": "gulpbuild"
   },
-  "dependencies": {},
+  "dependencies": {
+    "del": "^5.0.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
